@@ -1,0 +1,39 @@
+es:
+  categories:
+    ropa_mujer: "Ropa de Mujer"
+    ropa_interior_mujer: "Ropa Interior de Mujer"
+    ropa_interior_hombre: "Ropa Interior de Hombre"
+    ropa_hombre: "Ropa de Hombre"
+  
+  common:
+    actions:
+      back: "Volver"
+      edit: "Editar"
+      delete: "Eliminar"
+      save: "Guardar"
+      cancel: "Cancelar"
+      confirm: "Confirmar"
+    
+    messages:
+      confirm_delete: "¿Estás seguro de que deseas eliminar esto?"
+      changes_saved: "Los cambios han sido guardados exitosamente."
+      error_occurred: "Ha ocurrido un error. Por favor, intenta nuevamente."
+    
+    navigation:
+      home: "Inicio"
+      products: "Productos"
+      categories: "Categorías"
+      about: "Sobre Nosotros"
+      contact: "Contacto"
+      terms: "Términos y Condiciones"
+      account: "Mi Cuenta"
+      admin: "Panel de Administración"
+      sign_in: "Iniciar Sesión"
+      sign_up: "Registrarse"
+      sign_out: "Cerrar Sesión"
+    
+    footer:
+      rights: "Todos los derechos reservados"
+      privacy: "Política de Privacidad"
+      terms: "Términos y Condiciones"
+      contact: "Contacto" 
